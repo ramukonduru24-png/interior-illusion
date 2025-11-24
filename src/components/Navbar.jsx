@@ -31,7 +31,7 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto px-4 md:px-8 flex justify-between items-center">
                 {/* Logo */}
                 <a href="#" className="text-2xl md:text-3xl font-serif font-bold text-brand-dark">
-                    Interior Illusions
+                    Your Brand
                 </a>
 
                 {/* Desktop Navigation */}
